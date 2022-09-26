@@ -8,5 +8,21 @@ nav span {
   padding: 0 20px;
   color: #387a1e;
 }
+html *
+{
+  font-family: sans-serif;
+}
+h2{
+  color:#387a1e;
+}
 
-/* write your CSS styles below */
+.navborder {
+  border: 1px solid crimson;
+}
+.calltoactionborder
+{
+  border: 1px solid crimson;
+}
+.calltoactionborder h2{ color: crimson;}
+section
+{ padding: 10px 20px; }
